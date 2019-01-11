@@ -10,12 +10,12 @@ Microsoft has partnered with Pluralsight on free online distribution of official
 
 * **Microsoft Azure Administrator**. It is designed to show Azure to IT professionals. It brings along how to manipulate Virtual Machines, Network, Firewall, Storage, Backups and Disaster Recovery, and much more.
 
-    * [Access this training now](azurefundamentals\module2_training_azure_administrator.md)
+    * [Access this training now](https://github.com/AzureForEducation/trainings/blob/master/azurefundamentals/2_azure_fundamentals/azure_administrator/module2_training_azure_administrator.md)
 
 * **Microsoft Azure Developer**. This training was designed to show to software developers how Azure works and the ideal services for them available into the platform. Serverless computing, Web Apps, Logic Apps, API Management, Relational and Non-Relational databases, and more.
 
-    * [Access this training now](azurefundamentals\module2_training_azure_developer.md)
+    * [Access this training now](#)
 
 * **Microsoft Azure Solution Architect**. It is designed to form out architects. You will be able to understand the services and how to put them together in so many ways towards to deliver robust, reliable and scalable solutions on top of Azure.
 
-    * [Access this training now](azurefundamentals\module2_training_azure_architect.md)
+    * [Access this training now](#)
