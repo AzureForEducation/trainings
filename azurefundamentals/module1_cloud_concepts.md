@@ -4,10 +4,11 @@ This document puts together a series of links to useful contents freely availabl
 
 By reading, watching and dig into this contents, in the end, you should be able to understand what cloud computing is, the differences between the types of clouds, vision about the main providers in the market, and more. This critical mass should serve you as a solid fundament to dig into Azure services.
 
-<iframe src="https://channel9.msdn.com/events/Ignite/Microsoft-Ignite-Orlando-2017/THR1049R/player" width="960" height="540" allowFullScreen frameBorder="0"></iframe>
-
-
 If you think you already have the equivalent knowledge, please skip this step and go to [Azure Fundamentals](azurefundamentals\module2_azure_fundamentals.md) self-service training.
+
+# Introductory video
+
+Click to watch online: [Cloud Fundamentals](https://channel9.msdn.com/events/Ignite/Microsoft-Ignite-Orlando-2017/THR1049R?term=cloud%20fundamentals&lang-en=true).
 
 # Table of contents
 
