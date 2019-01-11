@@ -4,7 +4,7 @@ Couses available under this category are listed below. Please, by going through 
 
 ## Content table
 
-1. [Managing Microsoft Azure Identity and Security]()
+1. [Managing Microsoft Azure Identity and Security](https://github.com/AzureForEducation/trainings/blob/master/azurefundamentals/2_azure_fundamentals/azure_administrator/identity_and_security/index.md)
 2. [Monitoring Microsoft Azure]()
 3. [Managing Microsoft Azure Storage]()
 4. [Managing Microsoft Azure Networking]()
