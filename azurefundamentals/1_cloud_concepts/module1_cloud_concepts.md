@@ -4,7 +4,7 @@ This document puts together a series of links to useful contents freely availabl
 
 By reading, watching and dig into this contents, in the end, you should be able to understand what cloud computing is, the differences between the types of clouds, vision about the main providers in the market, and more. This critical mass should serve you as a solid fundament to dig into Azure services.
 
-If you think you already have the equivalent knowledge, please skip this step and go to [Azure Fundamentals](azurefundamentals/2_azure_fundamentals/module2_azure_fundamentals.md) self-service training.
+If you think you already have the equivalent knowledge, please skip this step and go to [Azure Fundamentals](https://github.com/AzureForEducation/trainings/blob/master/azurefundamentals/2_azure_fundamentals/module2_azure_fundamentals.md) self-service training.
 
 # Introductory video
 
