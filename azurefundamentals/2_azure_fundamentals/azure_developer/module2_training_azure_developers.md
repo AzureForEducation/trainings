@@ -5,7 +5,7 @@ Trainings available under this category are listed below. Please, by going throu
 ## Content table
 
 1. [Designing Microsoft Azure Applications](https://github.com/AzureForEducation/trainings/blob/master/azurefundamentals/2_azure_fundamentals/azure_developer/designing_applications/index.md)
-2. Microsoft Azure Storage for Developers
+2. [Microsoft Azure Storage for Developers](https://github.com/AzureForEducation/trainings/blob/master/azurefundamentals/2_azure_fundamentals/azure_developer/storage_developers/index.md)
 3. Microsoft Azure Compute for Developers
 4. Microsoft Azure Deployment
 5. Integration on Microsoft Azure
