@@ -14,7 +14,7 @@ Microsoft has partnered with Pluralsight on free online distribution of official
 
 * **Microsoft Azure Developer**. This training was designed to show to software developers how Azure works and the ideal services for them available into the platform. Serverless computing, Web Apps, Logic Apps, API Management, Relational and Non-Relational databases, and more.
 
-    * Will be available soon
+    * [Access this training now](https://github.com/AzureForEducation/trainings/blob/master/azurefundamentals/2_azure_fundamentals/azure_developer/designing_applications/index.md)
 
 * **Microsoft Azure Solution Architect**. It is designed to form out architects. You will be able to understand the services and how to put them together in so many ways towards to deliver robust, reliable and scalable solutions on top of Azure.
 
