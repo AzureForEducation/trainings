@@ -3,7 +3,7 @@ This repository groups a series of trainings designed for Educational scenarios 
 
 ## List of training available
 
-### Introduction to Microsoft Azure**
+### Introduction to Microsoft Azure
 
 * [Module 1: Cloud Computing' concepts](https://github.com/AzureForEducation/trainings/blob/master/azurefundamentals/1_cloud_concepts/module1_cloud_concepts.md) <br />
 General vision about cloud computing and tied concepts. By going through it, you will be able to understand what cloud computing is, differences between the existing clouds and also, understand the operational models available. This training is pre-req for the **Azure Fundamentals training**.
