@@ -9,7 +9,7 @@ Trainings available under this category are listed below. Please, by going throu
 3. [Microsoft Azure Compute for Developers](https://github.com/AzureForEducation/trainings/blob/master/azurefundamentals/2_azure_fundamentals/azure_developer/compute_developers/index.md)
 4. [Microsoft Azure Deployment](https://github.com/AzureForEducation/trainings/blob/master/azurefundamentals/2_azure_fundamentals/azure_developer/deployment_developers/index.md)
 5. [Integration on Microsoft Azure](https://github.com/AzureForEducation/trainings/blob/master/azurefundamentals/2_azure_fundamentals/azure_developer/integration_developers/index.md)
-6. Monitoring and Troubleshooting on Microsoft Azure
+6. [Monitoring and Troubleshooting on Microsoft Azure](https://github.com/AzureForEducation/trainings/blob/master/azurefundamentals/2_azure_fundamentals/azure_developer/monitoring_developers/index.md)
 7. Testing on Microsoft Azure
 8. Application Security on Microsoft Azure
 9. Application Development on Microsoft Azure
