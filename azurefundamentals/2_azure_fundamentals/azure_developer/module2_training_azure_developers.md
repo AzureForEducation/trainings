@@ -11,5 +11,5 @@ Trainings available under this category are listed below. Please, by going throu
 5. [Integration on Microsoft Azure](https://github.com/AzureForEducation/trainings/blob/master/azurefundamentals/2_azure_fundamentals/azure_developer/integration_developers/index.md)
 6. [Monitoring and Troubleshooting on Microsoft Azure](https://github.com/AzureForEducation/trainings/blob/master/azurefundamentals/2_azure_fundamentals/azure_developer/monitoring_developers/index.md)
 7. [Testing on Microsoft Azure](https://github.com/AzureForEducation/trainings/blob/master/azurefundamentals/2_azure_fundamentals/azure_developer/testing_developers/index.md)
-8. Application Security on Microsoft Azure
+8. [Application Security on Microsoft Azure](https://github.com/AzureForEducation/trainings/blob/master/azurefundamentals/2_azure_fundamentals/azure_developer/security_developers/index.md)
 9. Application Development on Microsoft Azure
